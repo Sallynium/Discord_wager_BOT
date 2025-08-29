@@ -1,0 +1,5 @@
+echo "node_modules/
+  *.log
+  .env
+  chrome-profile/
+  predictions_data.json" > .gitignore
